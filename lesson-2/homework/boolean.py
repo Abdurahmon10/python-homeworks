@@ -33,13 +33,13 @@ if(a==b and b==c):
     print("all of the are the same")
 elif(a==b and b!=c or a!=b and b==c):
     print("two of them are the same")
-elif(a!=b and b!=c and a!=c):
+else:
     print("all of them are different")
 
 #5
 string1=input()
 string2=input()
-if(string1.len()!=string2.len()):
+if(len(string1)!=len(string2)):
     print("string lengths are the same")
 else:
     print(string1,"and",string2,"have different lengths")

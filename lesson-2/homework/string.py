@@ -52,8 +52,8 @@ print(sentence)
 
 #8
 s=input()
-print(s[0:0])
-print(s[s.len():s.len()])
+print(s[0:1])
+print(s[len(s):len(s)+1])
 
 #9
 s=input()
