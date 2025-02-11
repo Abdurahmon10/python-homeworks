@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 13
+Top 5 words:
+I - 7
+am - 4
+good - 2
+a - 1
+person - 1
