@@ -1,0 +1,3 @@
+3, Raxmonjon,900,111
+0, bobirjon, 0, 9000
+1, eeeee, 0, 4567
